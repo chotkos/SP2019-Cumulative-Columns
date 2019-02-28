@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.7.0",
+    "libraryName": "passenger-cell",
+    "libraryId": "8f525728-5f0d-4cc2-a0c7-c0dc951e0dca",
+    "environment": "onprem19",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
